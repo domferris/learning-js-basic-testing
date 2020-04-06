@@ -1,0 +1,11 @@
+{
+  "name": "learning-to-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --coverage --watchAll --notify"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
